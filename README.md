@@ -11,7 +11,12 @@
 ### Software Tools:
 - Visual Studio Code
 - Microsoft SQL Server 2008
-- JavaFX Scene Builder
+- JavaFX Scene Builder 17.0.0
+
+### Requirements:
+- JDK 17.0.1
+- JavaFX SDK 17.0.1
+- mssql-jdbc-9.4.1.jre8.jar
 
 ### Screenshots:
 ![screenshot1](https://drive.google.com/uc?export=view&id=1CXwQTwicdXaeU3eOVU_tTlkuYf3BksXH)
